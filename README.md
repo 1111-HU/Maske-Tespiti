@@ -1,2 +1,2 @@
 # Maske-Tespiti
-Mask Detection using Python, OpenCV, and YOLO: includes custom dataset collection, mask annotation, preprocessing, model training, and evaluation.
+Python, OpenCV ve YOLO kullanarak Maske Algılama: özel veri kümesi toplama, maske açıklaması, ön işleme, model eğitimi ve değerlendirmeyi içerir.
